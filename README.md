@@ -1,1 +1,1 @@
-# eks-example-app
+# eks-example
